@@ -4,14 +4,12 @@ This Jekyll-powered wedding website is based on [markcerqueira/wedding-site][1].
 
 Favicons generated using [Real Favicon Generator][4].
 Submitable forms using [Formspree][5].
-Favicon by [Noah Camp from the Noun Project][6].
 
 [1]: https://github.com/markcerqueira/wedding-site
 [2]: https://html5up.net/spectral
 [3]: https://html5up.net/
 [4]: https://realfavicongenerator.net
 [5]: https://formspree.io/
-[6]: https://thenounproject.com/term/elephant/15906/
 
 ### Noticable Changes/Improvements
 
