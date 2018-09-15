@@ -1,0 +1,17 @@
+/* These styles make the top navigation bar change depending
+on the screen size. If there's room on the screen, the full nav
+bar should show. If not, then the mobile menu button will appear.
+ */
+
+#topbar-menu {
+    display: block;
+}
+
+#sidebar-menu {
+    display: none;
+}
+
+@media screen and (max-width: 736px) {
+    #topbar-menu {display: none;}
+    #sidebar-menu {display: block;}
+}
