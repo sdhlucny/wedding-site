@@ -15,3 +15,8 @@ bar should show. If not, then the mobile menu button will appear.
     #topbar-menu {display: none;}
     #sidebar-menu {display: block;}
 }
+
+.date-font {
+    font-size: x-large;
+    font-style: italic;
+}
